@@ -4,8 +4,7 @@
 - 📫 Pour me contacter :
   - Email : constantpierre.dev@gmail.com
   - LinkedIn : https://www.linkedin.com/in/constant-pierre-61b0a3276/
-- 😄 Pronouns: Il
-- ⚡ Fun fact: Otaku S rank
+- ⚡ Fun fact: Otaku S rank // Ma collection de POG
 
 <!---
 Regular-Stone/Regular-Stone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
