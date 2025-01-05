@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis @Regular-Stone
+- 👋 Bonjour, je suis @Regular-Stone / Constant PIERRE
 - 👀 Je suis intéressé par le développement web et JV. 
 - 🌱 J'apprends le C# et dotnet 💻
 - 📫 Pour me contacter :
