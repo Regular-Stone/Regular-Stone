@@ -2,7 +2,7 @@
 - 👀 Je suis intéressé par le développement web et JV. 
 - 🌱 J'apprends le C# et dotnet 💻
 - 📫 Pour me contacter :
-  - Email : constantpierre.dev@gmail.com
+  - Email : contact@constant-pierre.net
   - LinkedIn : https://www.linkedin.com/in/constant-pierre-61b0a3276/
 - ⚡ Fun fact: Otaku S rank // Ma collection de POG
 
